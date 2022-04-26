@@ -57,8 +57,9 @@ function piramid3($number)
     }
 }
 
+?>
 
-
+<!-- 
 /*  function printPiramid($number) {
      echo "<p style='text-align: center'>";
 
@@ -74,4 +75,4 @@ function piramid3($number)
     }
 
     echo "</p>";
- } */
+ } */ -->
